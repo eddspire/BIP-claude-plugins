@@ -1,0 +1,8 @@
+{
+  "name": "shiploud-claude-plugins",
+  "description": "Official Claude Code plugins from ShipLoud - Build In Public tools for developers",
+  "version": "1.0.0",
+  "author": {
+    "name": "ShipLoud"
+  }
+}

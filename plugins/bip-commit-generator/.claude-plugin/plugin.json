@@ -1,0 +1,16 @@
+{
+  "name": "bip-commit-generator",
+  "description": "Generates Build In Public optimized commit messages. Turn your git commits into content gold that ShipLoud's AI can transform into tweets, threads, and posts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ShipLoud"
+  },
+  "keywords": [
+    "commit",
+    "git",
+    "build-in-public",
+    "bip",
+    "content",
+    "shiploud"
+  ]
+}

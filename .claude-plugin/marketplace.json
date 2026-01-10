@@ -1,0 +1,18 @@
+{
+  "name": "bip-claude-plugins",
+  "owner": {
+    "name": "ShipLoud",
+    "email": "hello@shiploud.dev"
+  },
+  "plugins": [
+    {
+      "name": "bip-commit-generator",
+      "source": "./plugins/bip-commit-generator",
+      "description": "Generates Build In Public optimized commit messages. Turn your git commits into content gold.",
+      "version": "1.0.0",
+      "author": {
+        "name": "ShipLoud"
+      }
+    }
+  ]
+}
