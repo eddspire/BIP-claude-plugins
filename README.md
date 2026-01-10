@@ -1,13 +1,13 @@
-# ShipLoud Claude Plugins
+# BuildInPublic Claude Plugins
 
-Official Claude Code plugins from [ShipLoud](https://shiploud.dev) — Build In Public tools for developers.
+Official Claude Code plugins from [BuildInPublic](https://buildinpublic.so) — Build In Public tools for developers.
 
 ## Installation
 
-### Step 1: Add the ShipLoud marketplace (one-time)
+### Step 1: Add the BuildInPublic marketplace (one-time)
 
 ```bash
-/plugin marketplace add shiploud/bip-claude-plugins
+/plugin marketplace add buildinpublic/bip-claude-plugins
 ```
 
 ### Step 2: Install plugins
@@ -26,12 +26,12 @@ That's it! The skill is now available in any of your projects.
 
 **Generates Build In Public optimized commit messages from your git diffs.**
 
-Turn your commits into content gold that ShipLoud's AI can transform into tweets, threads, and posts.
+Turn your commits into content gold that BuildInPublic's AI can transform into tweets, threads, and posts.
 
 **What it does:**
 - Analyzes your staged changes automatically
 - Infers the human story (problem → solution → impact)
-- Generates commit messages optimized for ShipLoud's scoring system (60+ for auto-analysis)
+- Generates commit messages optimized for BuildInPublic's scoring system (60+ for auto-analysis)
 - Suggests content angles your commit enables
 
 **How to use:**
@@ -64,14 +64,14 @@ Stack: Recharts, TanStack Query, Supabase RPC
 **Content Angles This Enables:**
 - StoryArc: From user request to data-driven insights
 - Insights: How to build analytics that users actually want
-- Feature Shout: Ship Loud now shows your build patterns
+- Feature Shout: BuildInPublic now shows your build patterns
 ```
 
 ---
 
 ## Why BIP Commits Matter
 
-Your commits are your content engine. ShipLoud's AI analyzes them to:
+Your commits are your content engine. BuildInPublic's AI analyzes them to:
 
 1. Extract the technical story (what you built and how)
 2. Understand your developer psychology (mindset, patterns, breakthroughs)
@@ -93,10 +93,8 @@ Your commits are your content engine. ShipLoud's AI analyzes them to:
 
 ## Links
 
-- [ShipLoud](https://shiploud.dev) — The visibility OS for software builders
-- [Commit Bible](https://shiploud.dev/docs/commit-bible) — Full guide to writing content-worthy commits
-- [Support](https://shiploud.dev/support) — Get help
+- [BuildInPublic](https://buildinpublic.so) — The visibility OS for software builders
 
 ---
 
-Made with 🔥 by the ShipLoud team
+Made with love by eddspire x.com/@eddspire
