@@ -24,15 +24,16 @@ That's it! The skill is now available in any of your projects.
 
 ### 🚀 BIP Commit Generator
 
-**Generates Build In Public optimized commit messages from your git diffs.**
+**Generates Build In Public optimized commit messages, creates 3 ready-to-post tweets, then commits and pushes — all in one command.**
 
-Turn your commits into content gold that BuildInPublic's AI can transform into tweets, threads, and posts.
+Turn your commits into content gold. No friction. No excuses.
 
 **What it does:**
-- Analyzes your staged changes automatically
-- Infers the human story (problem → solution → impact)
-- Generates commit messages optimized for BuildInPublic's scoring system (60+ for auto-analysis)
-- Suggests content angles your commit enables
+1. Analyzes your changes automatically
+2. Generates a commit message optimized for BuildInPublic's scoring system (60+ for auto-analysis)
+3. Creates 3 different tweets from your commit (The Win, The Story, The Lesson)
+4. Commits and pushes automatically
+5. Gives you tweets ready to copy-paste
 
 **How to use:**
 
@@ -41,7 +42,7 @@ Just say:
 - `"write a commit message"`
 - `"help me commit this"`
 
-Claude will analyze your changes and generate a BIP-optimized commit message.
+Claude will analyze your changes, generate everything, commit, push, and give you tweets to post.
 
 **Example output:**
 
@@ -61,10 +62,40 @@ Stack: Recharts, TanStack Query, Supabase RPC
 
 **Estimated Score:** 92/100 (Auto-analyzed ✅)
 
-**Content Angles This Enables:**
-- StoryArc: From user request to data-driven insights
-- Insights: How to build analytics that users actually want
-- Feature Shout: BuildInPublic now shows your build patterns
+---
+
+## 🐦 Ready-to-Post Tweets
+
+**Tweet 1 — The Win**
+Just shipped real-time analytics for BuildInPublic 📊
+
+Now you can see your commit patterns, quality scores, and when you're actually productive (spoiler: it's not Mondays).
+
+What metrics would you want to track?
+
+**Tweet 2 — The Story**
+Users kept asking: "When am I most productive?"
+
+So I built a dashboard to answer it.
+
+Turns out we all have a mid-week dip. At least now we can see it coming.
+
+**Tweet 3 — The Lesson**
+Hot take: If you're building a dev tool without analytics, you're flying blind.
+
+Added Recharts + TanStack Query today. Took 2 hours. Now I know exactly how my users build.
+
+Your users are telling you things through their behavior. Are you listening?
+
+---
+
+## ✅ Shipped!
+
+Commit: a1b2c3d
+Branch: main
+Remote: origin
+
+Your tweets are ready to copy-paste. Go build in public! 🚀
 ```
 
 ---
